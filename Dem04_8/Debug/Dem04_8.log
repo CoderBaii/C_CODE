@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Administrator\Desktop\C\Vs2019\Dem04_8\test.c(108,1): warning C4090: “初始化”: 不同的“const”限定符
+  Dem04_8.vcxproj -> C:\Users\Administrator\Desktop\C\Vs2019\Dem04_8\Debug\Dem04_8.exe
