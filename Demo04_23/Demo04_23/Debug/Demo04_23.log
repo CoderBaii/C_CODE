@@ -1,0 +1,3 @@
+﻿  test01.c
+C:\Users\Administrator\source\repos\Demo04_23\Demo04_23\test01.c(27,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Demo04_23.vcxproj -> C:\Users\Administrator\source\repos\Demo04_23\Debug\Demo04_23.exe
