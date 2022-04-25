@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Administrator\source\repos\Demo04_24\Demo04_24\test.c(175,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Demo04_24.vcxproj -> C:\Users\Administrator\source\repos\Demo04_24\Debug\Demo04_24.exe
