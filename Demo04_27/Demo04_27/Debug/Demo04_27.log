@@ -1,0 +1,3 @@
+﻿  test01.c
+C:\Users\Administrator\source\repos\Demo04_27\Demo04_27\test01.c(218,33): warning C4477: “printf”: 格式字符串“%2d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  Demo04_27.vcxproj -> C:\Users\Administrator\source\repos\Demo04_27\Debug\Demo04_27.exe
